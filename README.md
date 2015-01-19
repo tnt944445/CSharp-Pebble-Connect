@@ -13,7 +13,7 @@ namespace Pebble_Connect_Test
     {
         static void Main(string[] args)
         {
-            var response = PebbleConnect.postMessage("userId", "userToken", "This is a test", "Poop Train!");
+            var response = PebbleConnect.postMessage("userId", "userToken", "messageBody", "messageTitle");
         }
     }
 }
