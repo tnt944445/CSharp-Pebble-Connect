@@ -1,5 +1,5 @@
 # CSharp-Pebble-Connect
-Allows you to use any .NET language to send a message to your pebble
+Allows you to use C# to send a message to your pebble
 
 #Using it
 C#
